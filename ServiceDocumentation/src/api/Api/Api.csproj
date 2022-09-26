@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\service_documentation\ConfigSQLSERVER\ConfigSQLSERVER.csproj" />
+    <ProjectReference Include="..\..\domain\DTOS\DTOS.csproj" />
+    <ProjectReference Include="..\..\repository\Interface\Interface.csproj" />
+    <ProjectReference Include="..\..\repository\Services\Services.csproj" />
+  </ItemGroup>
+
+</Project>
