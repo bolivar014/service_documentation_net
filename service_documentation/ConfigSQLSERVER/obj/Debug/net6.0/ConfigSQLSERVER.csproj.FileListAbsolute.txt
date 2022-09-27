@@ -12,3 +12,17 @@ C:\Users\JUAN-\OneDrive\Documentos\documentacion\service_documentation\ConfigSQL
 C:\Users\JUAN-\OneDrive\Documentos\documentacion\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.pdb
 C:\Users\JUAN-\OneDrive\Documentos\documentacion\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.genruntimeconfig.cache
 C:\Users\JUAN-\OneDrive\Documentos\documentacion\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ref\ConfigSQLSERVER.dll
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\bin\Debug\net6.0\ConfigSQLSERVER.deps.json
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\bin\Debug\net6.0\ConfigSQLSERVER.runtimeconfig.json
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\bin\Debug\net6.0\ConfigSQLSERVER.dll
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\bin\Debug\net6.0\ConfigSQLSERVER.pdb
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.AssemblyInfo.cs
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.dll
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\refint\ConfigSQLSERVER.dll
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.pdb
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ConfigSQLSERVER.genruntimeconfig.cache
+C:\Users\user\Documents\Doc\service_documentation_net\service_documentation\ConfigSQLSERVER\obj\Debug\net6.0\ref\ConfigSQLSERVER.dll
